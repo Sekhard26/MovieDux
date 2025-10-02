@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Dark Storm",
+    "image": "1.jpg",
+    "genre": "drama",
+    "rating": "8.3",
+    "year": 2023,
+    "director": "Michael Anderson",
+    "cast": ["Emma Stone", "Ryan Gosling", "Oscar Isaac"],
+    "description": "A gripping drama about a small coastal town facing an unprecedented storm that threatens to wash away not just their homes, but their deepest secrets. As the community struggles to survive, relationships are tested and long-buried truths emerge from the darkness."
+  },
+  {
+    "id": 2,
+    "title": "Whisper of Fate",
+    "image": "2.jpg",
+    "genre": "fantasy",
+    "rating": "7.7",
+    "year": 2022,
+    "director": "Sarah Chen",
+    "cast": ["Zendaya", "Timothée Chalamet", "Benedict Cumberbatch"],
+    "description": "In a world where destiny can be heard as whispers on the wind, a young oracle must choose between following her predetermined path or forging her own future. A mystical journey of self-discovery and the power of choice."
+  },
+  {
+    "id": 3,
+    "title": "Beyond the Edge",
+    "image": "3.jpg",
+    "genre": "horror",
+    "rating": "6.3",
+    "year": 2024,
+    "director": "Jordan Peele",
+    "cast": ["Lupita Nyong'o", "Daniel Kaluuya", "Keke Palmer"],
+    "description": "A psychological horror that follows a group of researchers who discover a dimensional rift in the Arctic. As they venture beyond the edge of reality, they encounter horrors that challenge their sanity and their understanding of existence itself."
+  },
+  {
+    "id": 4,
+    "title": "Lost in Shadows",
+    "image": "4.jpg",
+    "genre": "action",
+    "rating": "9.3",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "cast": ["Tom Hardy", "Charlize Theron", "John David Washington"],
+    "description": "A former special forces operative emerges from hiding to rescue his daughter from a criminal organization. Set in the shadows of a dystopian future, this action-packed thriller combines intense combat sequences with a deeply emotional father-daughter story."
+  },
+  {  
+    "id": 5,
+    "title": "Echoes of Power",
+    "image": "5.jpg",
+    "genre": "fantasy",
+    "rating": "6.9",
+    "year": 2022,
+    "director": "Patty Jenkins",
+    "cast": ["Gal Gadot", "Chris Pine", "Pedro Pascal"],
+    "description": "In an ancient realm where magic flows through bloodlines, a young warrior discovers she possesses abilities that could either save her kingdom or destroy it. A tale of power, responsibility, and the echoes of choices that span generations."
+  },
+  {
+    "id": 6,
+    "title": "Grim Reckoning",
+    "image": "6.jpg",
+    "genre": "drama",
+    "rating": "8.4",
+    "year": 2024,
+    "director": "Denis Villeneuve",
+    "cast": ["Adam Driver", "Scarlett Johansson", "Oscar Isaac"],
+    "description": "A haunting drama about justice and redemption set in post-war Europe. When a war crimes investigator confronts his own dark past, he must decide whether to expose the truth or protect those he loves. A morally complex story about the weight of history."
+  },
+  {
+    "id": 7,
+    "title": "Fury's Flight",
+    "image": "7.jpg",
+    "genre": "action",
+    "rating": "9.8",
+    "year": 2023,
+    "director": "Chad Stahelski",
+    "cast": ["Keanu Reeves", "Halle Berry", "Donnie Yen"],
+    "description": "The ultimate action spectacle follows an elite pilot who must navigate through enemy territory after his aircraft is shot down. Featuring breathtaking aerial sequences and ground combat, this adrenaline-fueled adventure pushes the boundaries of action cinema."
+  },
+  {
+    "id": 8,
+    "title": "Path of the Forgotten",
+    "image": "8.jpg",
+    "genre": "action",
+    "rating": "7.2",
+    "year": 2022,
+    "director": "Gareth Evans",
+    "cast": ["Iko Uwais", "Joe Taslim", "Yayan Ruhian"],
+    "description": "An ancient warrior awakens in the modern world with no memory of his past. As he pieces together his identity, he discovers he's the key to preventing an apocalyptic war between two hidden supernatural factions that have battled for centuries."
+  },
+  {
+    "id": 9,
+    "title": "Nightmare's Threshold",
+    "image": "9.jpg",
+    "genre": "horror",
+    "rating": "1.7",
+    "year": 2021,
+    "director": "Mike Flanagan",
+    "cast": ["Rebecca Ferguson", "Ewan McGregor", "Jacob Tremblay"],
+    "description": "A sleep study researcher becomes trapped in a nightmare realm where fears manifest as physical threats. This psychological horror explores the thin line between dreams and reality, questioning what happens when our darkest thoughts gain the power to harm us."
+  },
+  {
+    "id": 10,
+    "title": "Eternal Hunt",
+    "image": "10.jpg",
+    "genre": "fantasy",
+    "rating": "7.5",
+    "year": 2023,
+    "director": "Guillermo del Toro",
+    "cast": ["Mads Mikkelsen", "Tilda Swinton", "Doug Jones"],
+    "description": "In a world where mythical creatures hide among humans, an immortal hunter must track down a rogue shapeshifter threatening to expose their secret society. A dark fantasy that blends mythology with modern urban settings, exploring themes of identity and belonging."
+  },
+  {
+    "id": 11,
+    "title": "Legacy of the Void",
+    "image": "11.jpg",
+    "genre": "action",
+    "rating": "8.5",
+    "year": 2024,
+    "director": "Zack Snyder",
+    "cast": ["Henry Cavill", "Gal Gadot", "Jason Momoa"],
+    "description": "In the far reaches of space, a lone warrior carries the last hope of his extinct civilization. When an ancient evil awakens, he must rally unlikely allies across the galaxy to prevent the universe from falling into eternal darkness. An epic space opera of heroism and sacrifice."
+  },
+  {
+    "id": 12,
+    "title": "Shadow's Crescent",
+    "image": "12.jpg",
+    "genre": "horror",
+    "rating": "7.5",
+    "year": 2023,
+    "director": "Ari Aster",
+    "cast": ["Florence Pugh", "Jack Reynor", "Will Poulter"],
+    "description": "During a lunar eclipse, residents of a remote mountain town begin experiencing shared nightmares that bleed into reality. As the shadow of the moon grows longer, the boundary between the waking world and the realm of dreams dissolves, unleashing ancient terrors."
+  },
+  {
+    "id": 13,
+    "title": "Crimson Dawn",
+    "image": "13.jpg",
+    "genre": "fantasy",
+    "rating": "8.4",
+    "year": 2022,
+    "director": "Peter Jackson",
+    "cast": ["Cate Blanchett", "Ian McKellen", "Martin Freeman"],
+    "description": "As the first light of a blood-red dawn breaks over a war-torn fantasy realm, a young mage must master forbidden magic to save her people. This epic adventure combines spectacular battles with intimate character development in a richly detailed world of magic and wonder."
+  },
+  {
+    "id": 14,
+    "title": "Silent Kingdom",
+    "image": "14.jpg",
+    "genre": "fantasy",
+    "rating": "6.5",
+    "year": 2021,
+    "director": "Hayao Miyazaki",
+    "cast": ["Daisy Ridley", "Mark Hamill", "Lupita Nyong'o"],
+    "description": "In a kingdom where sound has been mysteriously banished, a deaf princess discovers she can hear the voices of nature itself. Her unique gift becomes the key to breaking an ancient curse and restoring harmony to a world trapped in eternal silence."
+  },
+  {
+    "id": 15,
+    "title": "Mystic Rite",
+    "image": "15.jpg",
+    "genre": "fantasy",
+    "rating": "9.8",
+    "year": 2024,
+    "director": "James Cameron",
+    "cast": ["Saoirse Ronan", "Oscar Isaac", "Lupita Nyong'o"],
+    "description": "When a young anthropologist discovers an ancient ritual site, she unwittingly awakens powers that connect her to a mystical realm. As reality and magic intertwine, she must complete a sacred rite to prevent two worlds from colliding. A visually stunning masterpiece of fantasy cinema."
+  },
+  {
+    "id": 16,
+    "title": "Reign of the Lost",
+    "image": "16.jpg",
+    "genre": "horror",
+    "rating": "9.1",
+    "year": 2023,
+    "director": "Robert Eggers",
+    "cast": ["Anya Taylor-Joy", "Ralph Fiennes", "Thomasin McKenzie"],
+    "description": "In medieval Europe, a plague turns the dead into vengeful spirits that claim dominion over abandoned villages. A group of survivors must navigate this supernatural apocalypse while confronting their own guilt and the sins of their ancestors. A masterful blend of historical horror and supernatural terror."
+  },
+  {
+    "id": 17,
+    "title": "Timeless Myth",
+    "image": "17.jpg",
+    "genre": "drama",
+    "rating": "4.0",
+    "year": 2020,
+    "director": "Terrence Malick",
+    "cast": ["Brad Pitt", "Cate Blanchett", "Sean Penn"],
+    "description": "An experimental drama that explores the cyclical nature of human stories across different time periods. Following interconnected lives spanning centuries, the film examines how the same fundamental human experiences repeat throughout history, though critics found it overly abstract and difficult to follow."
+  },
+  {
+    "id": 18,
+    "title": "Oath of the Fallen",
+    "image": "18.jpg",
+    "genre": "fantasy",
+    "rating": "6.3",
+    "year": 2021,
+    "director": "Zack Snyder",
+    "cast": ["Ben Affleck", "Henry Cavill", "Amy Adams"],
+    "description": "When ancient warriors return from the dead to fulfill a sacred oath, they must adapt to a modern world that has forgotten magic. This fantasy adventure explores themes of honor and duty while delivering spectacular action sequences, though some found the pacing uneven."
+  },
+  {
+    "id": 19,
+    "title": "Veil of Night",
+    "image": "19.jpg",
+    "genre": "drama",
+    "rating": "9.5",
+    "year": 2024,
+    "director": "Barry Jenkins",
+    "cast": ["Mahershala Ali", "Regina King", "LaKeith Stanfield"],
+    "description": "A powerful drama that follows three generations of a family as they navigate love, loss, and identity in a changing world. Set against the backdrop of a city that never sleeps, this intimate story explores how secrets can both protect and destroy the bonds that hold families together. A tour de force of emotional storytelling."
+  },
+  {
+    "id": 20,
+    "title": "Guardians of Twilight",
+    "image": "20.jpg",
+    "genre": "horror",
+    "rating": "7.4",
+    "year": 2022,
+    "director": "Jennifer Kent",
+    "cast": ["Essie Davis", "Noah Wiseman", "Daniel Henshall"],
+    "description": "As darkness falls earlier each day in a remote Arctic town, residents discover that malevolent creatures emerge during the extended twilight hours. A small group of guardians must protect their community while unraveling the mystery behind these supernatural beings that feed on fear and despair."
+  }
+]
