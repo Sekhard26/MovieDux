@@ -4,13 +4,13 @@ Moviedux is a simple React website where users can explore movies from different
 This project helped me learn React, components, props, state, and how to fetch/display data in a clean UI.
 
 ## Features:
- -> Browse movies from different genres
- -> View movie details such as:
-      --> Actors
-      --> Ratings
-      --> Movie information
- -> Beginner-friendly UI
- ->Fast development using Vite + React
+ - Browse movies from different genres
+ - View movie details such as:
+     - Actors
+     - Ratings
+     - Movie information
+ - Beginner-friendly UI
+ - Fast development using Vite + React
 
 ## How to Run the Project:
 
@@ -26,6 +26,7 @@ npm run dev
 
 ## File-Structure
 
+---
 Moviedux/
 │-- src/
 │   │-- components/
@@ -35,11 +36,11 @@ Moviedux/
 │-- public/
 │-- package.json
 │-- README.md
-
+---
 ## What I Learned
- -> How to set up a React project using Vite
- -> How React components work
- -> Using props and state
- -> Displaying movie data
+ - How to set up a React project using Vite
+ - How React components work
+ - Using props and state
+ - Displaying movie data
 
 
