@@ -1,16 +1,27 @@
-# React + Vite
+Moviedux- React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Moviedux is a simple React website where users can explore movies from different genres and view basic information about each movie.
+This project helped me learn React, components, props, state, and how to fetch/display data in a clean UI.
 
-Currently, two official plugins are available:
+Features:
+Browse movies from different genres
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View movie details such as:
+-> Actors
+-> Ratings
+-> Movie information
 
-## React Compiler
+Beginner-friendly UI
+Fast development using Vite + React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+How to Run the Project:
 
-## Expanding the ESLint configuration
+1️) Install dependencies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm install
+
+2️) Start development server
+
+npm run dev
+
+3️) Open the link shown in the terminal (usually http://localhost:5173)
