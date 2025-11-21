@@ -26,7 +26,7 @@ npm run dev
 
 ## File-Structure
 
----
+```
 
 Moviedux/
 │-- src/
@@ -37,7 +37,8 @@ Moviedux/
 │-- public/
 │-- package.json
 │-- README.md
----
+```
+
 ## What I Learned
  - How to set up a React project using Vite
  - How React components work
