@@ -29,14 +29,21 @@ npm run dev
 ```
 
 Moviedux/
+│-- node_modules/
+│-- public/
 │-- src/
 │   │-- components/
 │   │-- pages/
 │   │-- App.jsx
 │   │-- main.jsx
-│-- public/
+│-- .gitignore
+│-- eslint.config.js
+│-- index.html
 │-- package.json
+│-- package-lock.json
 │-- README.md
+│-- vite.config.js
+
 ```
 
 ## What I Learned
