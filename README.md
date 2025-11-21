@@ -27,6 +27,7 @@ npm run dev
 ## File-Structure
 
 ---
+
 Moviedux/
 │-- src/
 │   │-- components/
